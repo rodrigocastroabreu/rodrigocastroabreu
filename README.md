@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rodrigo Abreu  
+Desenvolvedor | Engenharia da Computação
 
-<!--
-**rodrigocastroabreu/rodrigocastroabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
+Desenvolvedor em formação com foco em software, automação e sistemas.  
+Perfil prático, orientado a aprendizado contínuo e projetos reais.
 
-Here are some ideas to get you started:
+## Formação
+- **Engenharia da Computação** — FAMETRO  
+  10º período
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formação Complementar
+- Front-end Web (HTML e CSS), SQL e Automações com n8n **(DevMedia)**
+
+- Formação **Tech Code** (em andamento) **(DevMedia)  **
+  Objetivo: Dominar o desenvolvimento completo com JavaScript, React, Node.js + Express, SQL e APIs.
+
+- Formação **Tech IA** (em andamento): Landing Page, Sistema de captura de leads, automação com n8n **(DevMedia)**
+  Objetivo: Desenvolver projetos utilizando Inteligência Artificial.
+
+## Perfil Técnico
+- Desenvolvimento de software e sistemas  
+- Automações e integrações  
+- Interesse em IA aplicada  
+- Aprendizado contínuo
+
+## Status
+Aberto a oportunidades na área de tecnologia.
