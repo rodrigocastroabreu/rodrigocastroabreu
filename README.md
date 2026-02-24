@@ -10,7 +10,7 @@ Perfil prático, orientado a aprendizado contínuo e projetos reais.
   10º período
 
 ## Formação Complementar
-- Front-end Web (HTML e CSS), SQL e Automações com n8n **(DevMedia)**
+- Front-end Web (HTML e CSS), SQL, Supabase e Automações com n8n **(DevMedia)**
 
 - Formação **Tech Code** (em andamento) **(DevMedia)  **
   Objetivo: Dominar o desenvolvimento completo com JavaScript, React, Node.js + Express, SQL e APIs.
