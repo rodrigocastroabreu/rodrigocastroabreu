@@ -2,8 +2,8 @@
 Desenvolvedor | Engenharia da Computação
 
 ## Sobre
-Desenvolvedor em formação com foco em software, automação e sistemas.  
-Perfil prático, orientado a aprendizado contínuo e projetos reais.
+Desenvolvedor em formação FullStack desenvolvimento web, automação.  
+Perfil prático, orientado a aprendizado contínuo.
 
 ## Formação
 - **Engenharia da Computação** — FAMETRO  
@@ -19,7 +19,7 @@ Perfil prático, orientado a aprendizado contínuo e projetos reais.
   Objetivo: Desenvolver projetos utilizando Inteligência Artificial.
 
 ## Perfil Técnico
-- Desenvolvimento de software e sistemas  
+- Desenvolvimento de software.
 - Automações e integrações  
 - Interesse em IA aplicada  
 - Aprendizado contínuo
