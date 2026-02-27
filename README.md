@@ -15,7 +15,7 @@ Perfil prático, orientado a aprendizado contínuo.
 - Formação **Tech Code** (em andamento) **(DevMedia)  **
   Objetivo: Dominar o desenvolvimento completo com JavaScript, React, Node.js + Express, SQL e APIs.
 
-- Formação **Tech IA** (em andamento): Landing Page, Sistema de captura de leads, automação com n8n **(DevMedia)**
+- Formação **Tech IA**: Landing Page, Sistema de captura de leads, automação com n8n **(DevMedia)**
   Objetivo: Desenvolver projetos utilizando Inteligência Artificial.
 
 ## Perfil Técnico
